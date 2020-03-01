@@ -18,8 +18,7 @@ interface Props {
   totp: any;
   user: any;
   login: any;
-  // totpActions: typeof totpActions;
-  // loginActions: typeof loginActions;
+  
   classes: any;
   match: any;
   nextRoute: string;
